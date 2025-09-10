@@ -10,3 +10,8 @@ Creating "Dancing in the Rain" style ripples and raindrops by tracking the actor
 Mapping the outline of the actors onto a painting canvas behind them, making it appear as if they've come from inside the painting.
 ## Fading Projection Map
 Project light effects onto the actor and lower saturation, to make it apear as if they'd gone into black & white. 
+
+## Contributors
+Faculty Lead: Joe Geigel
+
+Audrey Fuller - Water ripples
